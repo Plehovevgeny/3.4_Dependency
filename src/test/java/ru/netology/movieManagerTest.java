@@ -60,7 +60,7 @@ class movieManagerTest {
     }
 
     @Test
-    void findLastManagerLimit() {
+    void findLastManagerLimit3() {
         movieManager manager = new movieManager(3);
 
         String[] moviesMassive = new String[]{"Bloodshot", "LetsGo", "HostelBelgrade", "Gentlemen", "NumberOne"};
